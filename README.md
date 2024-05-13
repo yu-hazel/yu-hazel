@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1> 👋 Hi, I’m hazel! </h1>
+<h1> Hi, I’m hazel! </h1>
 
 프론트엔드 개발자를 목표로 하고 있는 말하는 감자🥔 입니다 :D
 
