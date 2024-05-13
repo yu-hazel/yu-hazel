@@ -4,8 +4,6 @@
 
 프론트엔드 개발자를 목표로 하고 있는 말하는 감자🥔 입니다 :D
 
-<br>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yu-hazel)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -16,7 +14,6 @@
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<br>
 
 <h3> 🐣 Currently Learning </h3>
 
