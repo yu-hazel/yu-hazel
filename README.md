@@ -2,8 +2,8 @@
 
 <h1> Hi, I’m Hazel! </h1>
 
-프론트엔드 개발자를 목표로 하고 있는 말하는 감자🥔 입니다 :D <br>
-제가 개발한 기능들에 대한 로직을 숙지하고 리뷰할 수 있어야 함을 늘 염두에 둡니다. <br>
+프론트엔드 개발자를 목표로 두고 있습니다. <br>
+제가 개발한 기능들에 대한 **로직을 숙지**하고 **리뷰할 수 있어야 함**을 늘 염두에 둡니다. <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yu-hazel)](https://github.com/anuraghazra/github-readme-stats)
 
